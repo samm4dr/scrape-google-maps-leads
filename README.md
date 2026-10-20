@@ -4,6 +4,9 @@ You need a list of plumbers in Manchester, dentists in Miami, or roofers in Lyon
 
 Here's the 2026 way: run a maintained **Apify actor** that handles proxies, pagination, and anti-blocking — then let your AI agent do the plumbing.
 
+> 🤖 **Try it live** — chat with a Poe bot that generates the exact pipeline for your niche:
+> **[Lead List Generator](https://poe.com/leadlistgenerator)** · [Job Postings Miner](https://poe.com/jobpostingsminer) · [Amazon Product Miner](https://poe.com/amazonproductminer) · [SERP Rank Tracker](https://poe.com/serpranktracker) · [Social Lead Finder](https://poe.com/socialleadfinder)
+
 ## The stack
 
 - **[Apify](https://console.apify.com/sign-up?fpr=dx06p)** — actor marketplace with ready-made Google Maps scrapers. Free tier includes monthly credits — enough to test this end-to-end.
